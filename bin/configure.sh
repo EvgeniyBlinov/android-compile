@@ -10,4 +10,4 @@
 ./android-ndk-r20/build/tools/make_standalone_toolchain.py \
   --arch arm64 \
   --api 28 \
-  --install-dir ~/arm2
+  --install-dir ~/arm
